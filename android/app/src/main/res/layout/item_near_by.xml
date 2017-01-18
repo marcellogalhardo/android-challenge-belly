@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="?attr/selectableItemBackground"
+              android:clickable="true"
+              android:focusable="true"
+              android:orientation="vertical"
+              android:paddingTop="10dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingEnd="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingStart="10dp">
+
+        <ImageView
+            android:id="@+id/thumb"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:adjustViewBounds="true"
+            android:background="@drawable/image_view_border"
+            android:scaleType="fitCenter"/>
+
+        <LinearLayout
+            android:id="@+id/container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginEnd="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginStart="10dp"
+            android:layout_toEndOf="@+id/thumb"
+            android:layout_toLeftOf="@+id/status"
+            android:layout_toRightOf="@+id/thumb"
+            android:layout_toStartOf="@+id/status"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name"
+                style="@style/AppTheme.NearBy.Name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_default_small"
+                android:ellipsize="end"
+                android:gravity="start"
+                android:maxLines="1"
+                tools:text="Name"/>
+
+            <TextView
+                android:id="@+id/distance"
+                style="@style/AppTheme.NearBy.Description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_default_small"
+                android:drawableLeft="@drawable/ic_map_pin"
+                android:drawablePadding="@dimen/margin_default"
+                android:drawableStart="@drawable/ic_map_pin"
+                android:ellipsize="end"
+                android:maxLines="1"/>
+
+            <TextView
+                android:id="@+id/category"
+                style="@style/AppTheme.NearBy.Description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_restaurant"
+                android:drawablePadding="@dimen/margin_default"
+                android:drawableStart="@drawable/ic_restaurant"
+                android:ellipsize="end"
+                android:maxLines="1"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/status"
+            style="@style/AppTheme.NearBy.Status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/chevron"
+            android:layout_toStartOf="@+id/chevron"
+            android:textAllCaps="true"
+            tools:text="@string/open"/>
+
+        <ImageView
+            android:id="@+id/chevron"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:tint="@color/arrow"
+            app:srcCompat="@drawable/ic_chevron_right"/>
+
+    </RelativeLayout>
+
+    <View
+        style="@style/AppTheme.Divider"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>

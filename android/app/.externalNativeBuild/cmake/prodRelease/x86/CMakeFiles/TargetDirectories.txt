@@ -1,0 +1,3 @@
+/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/x86/CMakeFiles/edit_cache.dir
+/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/x86/CMakeFiles/rebuild_cache.dir
+/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/x86/CMakeFiles/native-lib.dir

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- System -->
+    <color name="colorPrimary">#33a9e0</color>
+    <color name="colorPrimaryDark">#2987b3</color>
+    <color name="colorAccent">#33a9e0</color>
+
+    <color name="font_open">#5fb241</color>
+    <color name="font_closed">#cccccc</color>
+    <color name="divider">#ebebeb</color>
+    <color name="image_view_border">#8e8e8e</color>
+    <color name="font_title">#666666</color>
+    <color name="font_description">#8e8e8e</color>
+    <color name="arrow">#d9d9d9</color>
+
+
+    <!-- Palette -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_grey">#bdbdbd</color>
+    <color name="simple_grey">#8e8e8e</color>
+    <color name="warn_grey">#8e8e8e</color>
+
+    <color name="connected_greyed_out">#9e9e9e</color>
+    <color name="home_tab_text">#f3f3f3</color>
+    <color name="light_green_focused">#4099cc00</color>
+    <color name="light_green_pressed">#8099cc00</color>
+
+    <color name="nav_menu_bites">#edb406</color>
+    <color name="nav_menu_home">#e93801</color>
+    <color name="nav_menu_my_places">#e93801</color>
+    <color name="nav_menu_nearby">#62ab1b</color>
+    <color name="nav_menu_profile">#33a9e0</color>
+    <color name="nav_profile_normal">#434343</color>
+    <color name="nav_profile_pressed">#3b3b3b</color>
+</resources>

@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/marcellogalhardo/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodDebug/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/marcellogalhardo/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodDebug/x86_64 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/platforms/android-21/arch-x86_64  -Dnative_lib_EXPORTS -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86_64/include -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodDebug/x86_64"
+				}
+			],
+			"output" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/build/intermediates/cmake/prod/debug/obj/x86_64/libnative-lib.so",
+			"toolchain" : "168301927184655090"
+		}
+	},
+	"toolchains" : 
+	{
+		"168301927184655090" : 
+		{
+			"cCompilerExecutable" : "/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

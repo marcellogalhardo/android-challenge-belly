@@ -1,0 +1,1021 @@
+{
+  "region": {
+    "span": {
+      "latitude_delta": 0.08951638967084108,
+      "longitude_delta": 0.07430786000000467
+    },
+    "center": {
+      "latitude": -22.946421331967798,
+      "longitude": -43.1939841
+    }
+  },
+  "total": 149685,
+  "businesses": [
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/bondinho-do-p%C3%A3o-de-a%C3%A7%C3%BAcar-rio-de-janeiro-3?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 115,
+      "name": "Bondinho do P\u00e3o de A\u00e7\u00facar",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/bondinho-do-p%C3%A3o-de-a%C3%A7%C3%BAcar-rio-de-janeiro-3?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Active Life",
+          "active"
+        ],
+        [
+          "Local Flavor",
+          "localflavor"
+        ]
+      ],
+      "phone": "+552125468433",
+      "snippet_text": "Going on a Thursday - there was absolutely no lines for anything!\n\nTook an Uber to the ticket office.\nWalked through what looked like a metal detector (it...",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QCp8wYFl8bsRt5P09xJntQ/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/GNX4EsvcUp56B13HYCl-ZQ/ms.jpg",
+      "display_phone": "+55 (21) 2546-8433",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "bondinho-do-p\u00e3o-de-a\u00e7\u00facar-rio-de-janeiro-3",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Av. Pasteur, 520",
+          "Urca",
+          "Rio de Janeiro - RJ 22290-240",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Urca"
+        ],
+        "postal_code": "22290-240",
+        "country_code": "BR",
+        "address": [
+          "Av. Pasteur, 520"
+        ],
+        "coordinate": {
+          "latitude": -22.954521,
+          "longitude": -43.1673966
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/cristo-redentor-corcovado-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 147,
+      "name": "Cristo Redentor - Corcovado",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/cristo-redentor-corcovado-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Landmarks \u0026 Historical Buildings",
+          "landmarks"
+        ],
+        [
+          "Local Flavor",
+          "localflavor"
+        ]
+      ],
+      "phone": "+552124922252",
+      "snippet_text": "Though not the intention of my trip, Rio de Janeiro turned out to be somewhat of a spiritual adventure for me. I've heard of this happening to others when...",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HpoDVcL84c5xC2P6xWZcyQ/ms.jpg",
+      "snippet_image_url": "https://s3-media2.fl.yelpcdn.com/photo/B0v1icVlnZBM1dpDVHKSqQ/ms.jpg",
+      "display_phone": "+55 (21) 2492-2252",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "cristo-redentor-corcovado-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Parque Nacional da Tijuca",
+          "Santa Teresa",
+          "Rio de Janeiro - RJ 20531-590",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Santa Teresa"
+        ],
+        "postal_code": "20531-590",
+        "country_code": "BR",
+        "address": [
+          "Parque Nacional da Tijuca"
+        ],
+        "coordinate": {
+          "latitude": -22.951914,
+          "longitude": -43.210487
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/parque-lage-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 46,
+      "name": "Parque Lage",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/parque-lage-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Parks",
+          "parks"
+        ],
+        [
+          "Local Flavor",
+          "localflavor"
+        ]
+      ],
+      "phone": "+552132571840",
+      "snippet_text": "From the moment I'd seen Parque Lage in the music video for \"Beautiful\", by Snoop Dog and Pharrel, I knew it was a place that I'd want to visit someday....",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QwSW27wdPCmuVe0NIqlBMg/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/LJdNb3408wYJ6vo0jgfLfA/ms.jpg",
+      "display_phone": "+55 (21) 3257-1840",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "parque-lage-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Jardim Bot\u00e2nico, 414",
+          "Lagoa",
+          "Rio de Janeiro - RJ 22461-000",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Lagoa"
+        ],
+        "postal_code": "22461-000",
+        "country_code": "BR",
+        "address": [
+          "R. Jardim Bot\u00e2nico, 414"
+        ],
+        "coordinate": {
+          "latitude": -22.9612,
+          "longitude": -43.2132099
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/rotisseria-s%C3%ADrio-libaneza-rio-de-janeiro-4?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 41,
+      "name": "Rotisseria S\u00edrio Libaneza",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/rotisseria-s%C3%ADrio-libaneza-rio-de-janeiro-4?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Arabian",
+          "arabian"
+        ],
+        [
+          "Diners",
+          "diners"
+        ]
+      ],
+      "phone": "+552125572377",
+      "snippet_text": "Great for a quick delicious bite! The fruit smoothie's are to die for.  Brazil just always delivers on having the freshest real fruit smoothies.\n\nI had this...",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lgyyqYhkux254tuI2j0NdQ/ms.jpg",
+      "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/photo/qsrkY0UsmDjxTueAr7JqPg/ms.jpg",
+      "display_phone": "+55 (21) 2557-2377",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "rotisseria-s\u00edrio-libaneza-rio-de-janeiro-4",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Largo do Machado, 29",
+          "Catete",
+          "Rio de Janeiro - RJ 23510-600",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Catete"
+        ],
+        "postal_code": "23510-600",
+        "country_code": "BR",
+        "address": [
+          "Largo do Machado, 29"
+        ],
+        "coordinate": {
+          "latitude": -22.9305912836896,
+          "longitude": -43.1790231282753
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/ct-boucherie-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 54,
+      "name": "CT Boucherie",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/ct-boucherie-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "French",
+          "french"
+        ],
+        [
+          "Steakhouses",
+          "steak"
+        ]
+      ],
+      "phone": "+552125292329",
+      "snippet_text": "Best food and service\n\nYou have to try their meat and their numerous sides ... Everything was good",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nn5qC0wa2w-MqlXrZCWBIA/ms.jpg",
+      "snippet_image_url": "https://s3-media3.fl.yelpcdn.com/photo/LToU0_nLkDZupW9r6rcA8A/ms.jpg",
+      "display_phone": "+55 (21) 2529-2329",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "ct-boucherie-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Dias Ferreira, 636",
+          "Leblon",
+          "Rio de Janeiro - RJ 22431-050",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Leblon"
+        ],
+        "postal_code": "22431-050",
+        "country_code": "BR",
+        "address": [
+          "R. Dias Ferreira, 636"
+        ],
+        "coordinate": {
+          "latitude": -22.9818915,
+          "longitude": -43.2244117
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/curto-caf%C3%A9-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 24,
+      "name": "Curto Caf\u00e9",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/curto-caf%C3%A9-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Coffee \u0026 Tea",
+          "coffee"
+        ]
+      ],
+      "phone": "+5521983230183",
+      "snippet_text": "The first place we started our day off at was Curto Cafe.  Rio doesn't have a huge coffee presence like San Francisco, but they do love their espresso...",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A7kS1dMnK8uglKvcjc643A/ms.jpg",
+      "snippet_image_url": "https://s3-media3.fl.yelpcdn.com/photo/B7YsILsslZN3Sh4JhvqPJA/ms.jpg",
+      "display_phone": "+55 (21) 98323-0183",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "curto-caf\u00e9-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Av. Erasmos Braga, 278",
+          "Sobreloja, Quiosque 47",
+          "Centro",
+          "Rio de Janeiro - RJ 20010-020",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Centro"
+        ],
+        "postal_code": "20010-020",
+        "country_code": "BR",
+        "address": [
+          "Av. Erasmos Braga, 278",
+          "Sobreloja, Quiosque 47"
+        ],
+        "coordinate": {
+          "latitude": -22.9057320639356,
+          "longitude": -43.1757907912772
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/churrascaria-palace-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 71,
+      "name": "Churrascaria Palace",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/churrascaria-palace-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Steakhouses",
+          "steak"
+        ],
+        [
+          "Rodizios",
+          "rodizios"
+        ]
+      ],
+      "phone": "+552125415898",
+      "snippet_text": "When you go to Rio you have to make this a priority. It's amazing. Enjoyed every thing i indulged",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C89fnvYLZoHTf9qJYzv0lA/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/wd794qPv8P46G-yV7efJng/ms.jpg",
+      "display_phone": "+55 (21) 2541-5898",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "churrascaria-palace-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Rodolfo Dantas, 16",
+          "Copacabana",
+          "Rio de Janeiro - RJ 22020-040",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Copacabana"
+        ],
+        "postal_code": "22020-040",
+        "country_code": "BR",
+        "address": [
+          "R. Rodolfo Dantas, 16"
+        ],
+        "coordinate": {
+          "latitude": -22.9668,
+          "longitude": -43.1784
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 5.0,
+      "mobile_url": "https://m.yelp.com/biz/momo-gelato-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png",
+      "review_count": 19,
+      "name": "Momo Gelato",
+      "rating_img_url_small": "https://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png",
+      "url": "https://www.yelp.com/biz/momo-gelato-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Ice Cream \u0026 Frozen Yogurt",
+          "icecream"
+        ],
+        [
+          "Coffee \u0026 Tea",
+          "coffee"
+        ]
+      ],
+      "phone": "+552122941965",
+      "snippet_text": "This is my Sunday afternoon treat. You can often find all the locals pushing strollers to make it for a few scoops of freshly made gelato. My particular...",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q3m3sHwdhUZeR_f7Ud27qA/ms.jpg",
+      "snippet_image_url": "https://s3-media3.fl.yelpcdn.com/photo/MPIOsWVjVXE7_VilIzXJiQ/ms.jpg",
+      "display_phone": "+55 (21) 2294-1965",
+      "rating_img_url_large": "https://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png",
+      "id": "momo-gelato-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Dias Ferreira, 147",
+          "Leblon",
+          "Rio de Janeiro - RJ 22431-050",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Leblon"
+        ],
+        "postal_code": "22431-050",
+        "country_code": "BR",
+        "address": [
+          "R. Dias Ferreira, 147"
+        ],
+        "coordinate": {
+          "latitude": -22.9846548,
+          "longitude": -43.2277604
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/apraz%C3%ADvel-rio-de-janeiro-2?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 86,
+      "name": "Apraz\u00edvel",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/apraz%C3%ADvel-rio-de-janeiro-2?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Brazilian",
+          "brazilian"
+        ]
+      ],
+      "phone": "+552125089174",
+      "snippet_text": "Nice place.... With outside and inside \nNice decoration and the food was amazing...\n\nThe view worh the place",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iDl6AIdeo4hcUpJtOSLPWA/ms.jpg",
+      "snippet_image_url": "https://s3-media3.fl.yelpcdn.com/photo/LToU0_nLkDZupW9r6rcA8A/ms.jpg",
+      "display_phone": "+55 (21) 2508-9174",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "apraz\u00edvel-rio-de-janeiro-2",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Apraz\u00edvel, 62",
+          "Santa Teresa",
+          "Rio de Janeiro - RJ 20241-270",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Santa Teresa"
+        ],
+        "postal_code": "20241-270",
+        "country_code": "BR",
+        "address": [
+          "R. Apraz\u00edvel, 62"
+        ],
+        "coordinate": {
+          "latitude": -22.9241936,
+          "longitude": -43.1867354
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/bar-urca-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 93,
+      "name": "Bar Urca",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/bar-urca-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Brazilian",
+          "brazilian"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "phone": "+552122958744",
+      "snippet_text": "the open air bar is AMAZING and the view from the sea wall is unparalleled. One of my favorite spots in Rio.\n\nI know about 2 words in Portuguese but the...",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lx2OHRc3LeJcxxsvoCi4ew/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/Vb1rRvPG9A4yNFcxjBFVcA/ms.jpg",
+      "display_phone": "+55 (21) 2295-8744",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "bar-urca-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. C\u00e2ndido Gaffree, 205",
+          "Urca",
+          "Rio de Janeiro - RJ 22291-080",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Urca"
+        ],
+        "postal_code": "22291-080",
+        "country_code": "BR",
+        "address": [
+          "R. C\u00e2ndido Gaffree, 205"
+        ],
+        "coordinate": {
+          "latitude": -22.94358,
+          "longitude": -43.16013
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": true,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/meza-bar-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 29,
+      "name": "Meza Bar",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/meza-bar-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Gastropubs",
+          "gastropubs"
+        ],
+        [
+          "Cocktail Bars",
+          "cocktailbars"
+        ]
+      ],
+      "phone": "+552132391951",
+      "snippet_text": "I ABSOLUTELY loved Meza Bar.  From the decor to the service to the cocktails, everything here was totally on point.  We stopped at Meza Bar for a few...",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CeD93M9Izc-Li2e-cQmhYQ/ms.jpg",
+      "snippet_image_url": "https://s3-media3.fl.yelpcdn.com/photo/B7YsILsslZN3Sh4JhvqPJA/ms.jpg",
+      "display_phone": "+55 (21) 3239-1951",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "meza-bar-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Capit\u00e3o Salom\u00e3o, 69",
+          "Botafogo",
+          "Rio de Janeiro - RJ 22271-040",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Botafogo"
+        ],
+        "postal_code": "22271-040",
+        "country_code": "BR",
+        "address": [
+          "R. Capit\u00e3o Salom\u00e3o, 69"
+        ],
+        "coordinate": {
+          "latitude": -22.9580498,
+          "longitude": -43.1959114
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/forte-de-copacabana-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 28,
+      "name": "Fort Copacabana",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/forte-de-copacabana-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Museums",
+          "museums"
+        ],
+        [
+          "Landmarks \u0026 Historical Buildings",
+          "landmarks"
+        ]
+      ],
+      "phone": "+552122873781",
+      "snippet_text": "I feel this is such an underrated gem lying between Copacabana and Ipanema.  Don't get me wrong, this is no sugarloaf, but I was staying in Copacabana and...",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wGqTLyOmhsks-UUwCLFmIw/ms.jpg",
+      "snippet_image_url": "https://s3-media2.fl.yelpcdn.com/photo/T6mCHKcgc3lDvjwKBmg7LQ/ms.jpg",
+      "display_phone": "+55 (21) 2287-3781",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "forte-de-copacabana-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Pra\u00e7a Coronel Eug\u00eanio Franco, 1",
+          "Copacabana",
+          "Rio de Janeiro - RJ 22070-020",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Copacabana"
+        ],
+        "postal_code": "22070-020",
+        "country_code": "BR",
+        "address": [
+          "Pra\u00e7a Coronel Eug\u00eanio Franco, 1"
+        ],
+        "coordinate": {
+          "latitude": -22.98656,
+          "longitude": -43.18857
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/pra%C3%A7a-s%C3%A3o-salvador-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 17,
+      "name": "Pra\u00e7a S\u00e3o Salvador",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/pra%C3%A7a-s%C3%A3o-salvador-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Landmarks \u0026 Historical Buildings",
+          "landmarks"
+        ],
+        [
+          "Local Flavor",
+          "localflavor"
+        ]
+      ],
+      "snippet_text": "One could think it is a scene out of a small town on the countryside. But it happens in Laranjeiras, one of Rio's nice residential neighborhoods. Every...",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LO_1nuUlw5q-b-rySsj89g/ms.jpg",
+      "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/photo/3hcLy-8qsD0LXTGxFfitrA/ms.jpg",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "pra\u00e7a-s\u00e3o-salvador-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Pra\u00e7a S\u00e3o Salvador",
+          "Laranjeiras",
+          "Rio de Janeiro - RJ 22210-080",
+          "Brazil"
+        ],
+        "geo_accuracy": 6.0,
+        "neighborhoods": [
+          "Laranjeiras"
+        ],
+        "postal_code": "22210-080",
+        "country_code": "BR",
+        "address": [
+          "Pra\u00e7a S\u00e3o Salvador"
+        ],
+        "coordinate": {
+          "latitude": -22.93412,
+          "longitude": -43.18063
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": true,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/comuna-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 66,
+      "name": "Comuna",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/comuna-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Burgers",
+          "burgers"
+        ],
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "phone": "+552135796175",
+      "snippet_text": "Arrived to this place and it was crowded! There was a recommendation to try the Boludo and boy oh boy, it was hands-down the BEST burger I have eaten in a...",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HwoZEcuYIAPRAsYVxBZE5w/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/9F33DCCiGNauLwMH-Oc6Mg/ms.jpg",
+      "display_phone": "+55 (21) 3579-6175",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "comuna-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Sorocaba, 585",
+          "Botafogo",
+          "Rio de Janeiro - RJ 22271-110",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Botafogo"
+        ],
+        "postal_code": "22271-110",
+        "country_code": "BR",
+        "address": [
+          "R. Sorocaba, 585"
+        ],
+        "coordinate": {
+          "latitude": -22.955065,
+          "longitude": -43.1889668
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.0,
+      "mobile_url": "https://m.yelp.com/biz/zaz%C3%A1-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count": 95,
+      "name": "Zaz\u00e1",
+      "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url": "https://www.yelp.com/biz/zaz%C3%A1-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Brazilian",
+          "brazilian"
+        ],
+        [
+          "Bistros",
+          "bistros"
+        ],
+        [
+          "Seafood",
+          "seafood"
+        ]
+      ],
+      "phone": "+552122479105",
+      "snippet_text": "Zaza is very consistently amazing! The service is always on point and the assortment of dishes offers something for everyone. Last time I went, we had a...",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a1ESUzQ9suPfO2kPioH6RA/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/GjhuWOKBZcAFdYcTGGSS4g/ms.jpg",
+      "display_phone": "+55 (21) 2247-9105",
+      "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id": "zaz\u00e1-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Joana Ang\u00e9lica, 40",
+          "Ipanema",
+          "Rio de Janeiro - RJ 22420-030",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Ipanema"
+        ],
+        "postal_code": "22420-030",
+        "country_code": "BR",
+        "address": [
+          "R. Joana Ang\u00e9lica, 40"
+        ],
+        "coordinate": {
+          "latitude": -22.9854794,
+          "longitude": -43.2050638
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/escadaria-selar%C3%B3n-rio-de-janeiro-2?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 34,
+      "name": "Selaron Steps",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/escadaria-selar%C3%B3n-rio-de-janeiro-2?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Landmarks \u0026 Historical Buildings",
+          "landmarks"
+        ]
+      ],
+      "snippet_text": "I've always wanted to visit the famous stairs featured in the Pharrell and Snoop Dog \"Beautiful\" video and I finally got the opportunity to visit this...",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p4v-F1b2HoAGp7PEIAl3IQ/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/OQRqtKG191ZudaY_GJI7rQ/ms.jpg",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "escadaria-selar\u00f3n-rio-de-janeiro-2",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Joaquim Silva",
+          "Santa Teresa",
+          "Rio de Janeiro - RJ 20241-120",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Santa Teresa"
+        ],
+        "postal_code": "20241-120",
+        "country_code": "BR",
+        "address": [
+          "R. Joaquim Silva"
+        ],
+        "coordinate": {
+          "latitude": -22.9153154,
+          "longitude": -43.1793307
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/pav%C3%A3o-azul-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 49,
+      "name": "Pav\u00e3o Azul",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/pav%C3%A3o-azul-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Bars",
+          "bars"
+        ]
+      ],
+      "phone": "+552122362381",
+      "snippet_text": "LOVED this restaurant. It was definitely the most authentic dining experience I had in Rio. I think we were the only tourists there. The waiters didn't...",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QagJqI4zFZNL2RnBfQGFPQ/ms.jpg",
+      "snippet_image_url": "https://s3-media2.fl.yelpcdn.com/photo/UQMISl-N8gWN0sZ5lCnBKw/ms.jpg",
+      "display_phone": "+55 (21) 2236-2381",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "pav\u00e3o-azul-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Hil\u00e1rio de Gouveia, 71",
+          "Copacabana",
+          "Rio de Janeiro - RJ 22040-020",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Copacabana"
+        ],
+        "postal_code": "22040-020",
+        "country_code": "BR",
+        "address": [
+          "R. Hil\u00e1rio de Gouveia, 71"
+        ],
+        "coordinate": {
+          "latitude": -22.9677765878574,
+          "longitude": -43.1843746041118
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.0,
+      "mobile_url": "https://m.yelp.com/biz/via-sete-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+      "review_count": 68,
+      "name": "Via Sete",
+      "rating_img_url_small": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+      "url": "https://www.yelp.com/biz/via-sete-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Brazilian",
+          "brazilian"
+        ],
+        [
+          "Salad",
+          "salad"
+        ],
+        [
+          "Burgers",
+          "burgers"
+        ]
+      ],
+      "phone": "+552122218020",
+      "snippet_text": "Last Rio dinner before heading home. A GREAT choice for good Italian salad with Salmon and a Beef Tenderloin! Appetizer was also very tasty...Tuna...",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sVSMkTSBwhvIbXbOXjzFqQ/ms.jpg",
+      "snippet_image_url": "https://s3-media4.fl.yelpcdn.com/photo/BC5FM1YB_MTKnU9u459ghQ/ms.jpg",
+      "display_phone": "+55 (21) 2221-8020",
+      "rating_img_url_large": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+      "id": "via-sete-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Rua Garcia D' \u00c1vila, 125",
+          "Ipanema",
+          "Ipanema",
+          "Rio de Janeiro - RJ 22421-010",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Ipanema"
+        ],
+        "postal_code": "22421-010",
+        "country_code": "BR",
+        "address": [
+          "Rua Garcia D' \u00c1vila, 125",
+          "Ipanema"
+        ],
+        "coordinate": {
+          "latitude": -22.9832,
+          "longitude": -43.20925
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": false,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/praia-do-leblon-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 22,
+      "name": "Leblon Beach",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/praia-do-leblon-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Beaches",
+          "beaches"
+        ],
+        [
+          "Landmarks \u0026 Historical Buildings",
+          "landmarks"
+        ]
+      ],
+      "snippet_text": "It's a beach in Rio so, you're basically in paradise. What more can you say? This one is a bit less crowded than the others so it's a good choice if you're...",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mu5P7TqxjVj1ESshC744zA/ms.jpg",
+      "snippet_image_url": "https://s3-media1.fl.yelpcdn.com/photo/E8ctV2JVHJqIf81AY1J9FQ/ms.jpg",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "praia-do-leblon-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "Av. Delfim Moreira, s/n",
+          "Leblon",
+          "Rio de Janeiro - RJ 22441-000",
+          "Brazil"
+        ],
+        "geo_accuracy": 9.5,
+        "neighborhoods": [
+          "Leblon"
+        ],
+        "postal_code": "22441-000",
+        "country_code": "BR",
+        "address": [
+          "Av. Delfim Moreira, s/n"
+        ],
+        "coordinate": {
+          "latitude": -22.9871106,
+          "longitude": -43.2224462
+        },
+        "state_code": "RJ"
+      }
+    },
+    {
+      "is_claimed": true,
+      "rating": 4.5,
+      "mobile_url": "https://m.yelp.com/biz/amir-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "rating_img_url": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+      "review_count": 33,
+      "name": "Amir",
+      "rating_img_url_small": "https://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png",
+      "url": "https://www.yelp.com/biz/amir-rio-de-janeiro?adjust_creative=36KJ4wiuBSKXm3GyzmNaxQ\u0026utm_campaign=yelp_api\u0026utm_medium=api_v2_search\u0026utm_source=36KJ4wiuBSKXm3GyzmNaxQ",
+      "categories": [
+        [
+          "Arabian",
+          "arabian"
+        ]
+      ],
+      "phone": "+552122755596",
+      "snippet_text": "This place was packed on a Monday night. And for good reason. There was a mix of foreigners and very friendly locals enjoying authentic middle eastern food....",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WISjbqZGy3AqcY6GYO4VzA/ms.jpg",
+      "snippet_image_url": "https://s3-media2.fl.yelpcdn.com/photo/f7wptdp03HxpOKvV39KnrA/ms.jpg",
+      "display_phone": "+55 (21) 2275-5596",
+      "rating_img_url_large": "https://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+      "id": "amir-rio-de-janeiro",
+      "is_closed": false,
+      "location": {
+        "city": "Rio de Janeiro",
+        "display_address": [
+          "R. Ronald de Carvalho, 55",
+          "Copacabana",
+          "Rio de Janeiro - RJ 22021-020",
+          "Brazil"
+        ],
+        "geo_accuracy": 8.0,
+        "neighborhoods": [
+          "Copacabana"
+        ],
+        "postal_code": "22021-020",
+        "country_code": "BR",
+        "address": [
+          "R. Ronald de Carvalho, 55"
+        ],
+        "coordinate": {
+          "latitude": -22.9656792,
+          "longitude": -43.176609
+        },
+        "state_code": "RJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoToolbar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Launch" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">#333333</item>
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <!-- Home theme. -->
+    <style name="AppTheme.NearBy"/>
+
+    <style name="AppTheme.NearBy.Name" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/font_title</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.NearBy.Description" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textColor">@color/font_description</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="AppTheme.NearBy.Status" parent="TextAppearance.AppCompat.Caption">
+        <item name="android:textColor">@color/font_open</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="AppTheme.Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider</item>
+        <!--<item name="android:color">@color/divider</item>-->
+        <!--<item name="android:background">?android:attr/listDivider</item>-->
+    </style>
+
+</resources>

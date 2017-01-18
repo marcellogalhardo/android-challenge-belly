@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/gson-2.7_cf3e34a5d616fab8fb737f70cd3f08d0db88ae34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-media-compat-25.1.0_d80312428a84520f2a7e3efb4caeb3f72c9c9070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-library-1.3_023b1f3a68dce4a6a373bf1fef4aa35c293d6972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-vector-drawable-25.1.0_ffec491f684a314d16c16af0072201b4d3b758ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/io.requery/requery/1.1.0/dc8bf50b62674a33d53bf91ae2dcd137dd830382/requery-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc8bf50b62674a33d53bf91ae2dcd137dd830382">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/requery-1.1.0_37ad4352d2b0c5b853cfc994c6bdf555ff898f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.google.android.gms-play-services-location-10.0.1_a90ef05e646db545a090d8b4ee2a1214c648db0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.google.android.gms-play-services-tasks-10.0.1_05f8159a6d117feee8f1d0d5d8523025847b5cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/com.android.support.test-runner-0.5_c0f123c3cf72eef78c6d12f1df26ac4d990da203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/okhttp-ws-3.4.1_3e7fe3e523cbbd47d2ea3ebc0db8cff22f1e8f89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/jsr305-2.0.1_eb42f38f061b75d181dcbf7d9a459c67aaaeaee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/io.requery/requery-android/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="280267682aa11cc55da80d25e9b905aa72416f29">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/io.requery-requery-android-1.1.0_53089880817d8cf7a0fadf24c4d6e5a42196a59e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value/1.2/6873fed014fe1de1051aae2af68ba266d2934471/auto-value-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6873fed014fe1de1051aae2af68ba266d2934471">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/auto-value-1.2_cc07ecfeb73c03e54e1294abe6a8eec0ddc99a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/logging-interceptor-3.4.1_d9bcdd1ea81aaed45f1c014ed99f4cbc548fda1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.google.android.gms-play-services-maps-10.0.1_9c3c7489818470f23c5a76cc77126290e20be222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/com.android.support.test-rules-0.5_8810d3075ef21033977dac474a0966faf7ac48ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/com.android.support.test.espresso-espresso-core-2.2.2_ff77f928716db2b6dafc7f60db31e1077d4ee581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/picasso-2.5.2_53dda83b8cfdaf27ce66f7735cc00ab3ed63b319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_f61e68bd3edc63ebdcbc45674442278a0993d2d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.50/be504b4901d75cbe129a178f5830e6c358ec214c/bcprov-jdk15on-1.50.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/bcprov-jdk15on-1.50_334c587f2a9be040bfe4f2a91a41b91746c3c061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/uk.co.chrisjenx/calligraphy/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/uk.co.chrisjenx-calligraphy-2.2.0_1165f5c6c3208fca299e6620a55a87022c06f19d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-fragment-25.1.0_35baf047488b2af02d17763a3e0780a6843f4f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-transition-25.1.0_59af23f20e8ec49afff5ac4155cf6209ec0848c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/butterknife-annotations-8.4.0_03f1b70c47ea8305216ce1f4e904c7a137c48589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/se.akerfeldt/okhttp-signpost/1.1.0/544600ae042f8fc113acb612ef30c69144b685d4/okhttp-signpost-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="544600ae042f8fc113acb612ef30c69144b685d4">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/okhttp-signpost-1.1.0_c2a0d046a8e8012e727ace1c15972b17170a3dd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-integration-1.3_c093fe7064f0f8098a82e76b0f016369ca6993d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/junit-4.12_5a08285191c470f83202ecfee245a69300d89d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-compat-25.1.0_2ba9a7743e87541f78694c320c89438ae2cf0a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/javawriter-2.1.1_94a943158e4277f68349520d1a6003d316a15613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-core-ui-25.1.0_c1b319e73bada7cdef28900b620f38f911536642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.orhanobut/hawk/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d68a8fd0dd5d9a2b4e415a8411bf8b6aa50542f">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.orhanobut-hawk-2.0.1_1892362f06e77c8ee3241165cb8b259d81aa2ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/converter-gson-2.1.0_fddfa9ca96d3b4b38f4b99c6b9a98f17482cdb0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/javax.annotation-api-1.2_a641f62db5792c7fed192fbf35eb4235ad3520e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-core-utils-25.1.0_3dfe0ea7130841cf69145a5fc88d7cd5878d0f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-animated-vector-drawable-25.1.0_84ac2bd1e0289bc8ca5405ea1932fd6cddf7d38b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/adapter-rxjava-2.1.0_b2d884106f7738275a1eb83a6e375c936a6e4934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.8/f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5/rxjava-1.1.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9dbae366a6a3d6b5041c5e8db0dcdfdc35c27b5">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/rxjava-1.1.8_f2da302b1f915a92b0604e978217e25cecf21f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.google.android.gms-play-services-base-10.0.1_996e4e77c8830afc666c356cf3ecf542140073c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.squareup.sqlbrite/sqlbrite/0.7.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9b36c53b72dd052370aea5229573d75b640ec015">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.squareup.sqlbrite-sqlbrite-0.7.0_c52ddeb8096fa6fa9faab55ee601694b59490414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-cardview-v7-25.1.0_4b6a75a903aae4bc4baa0c7d3ea78108f27635d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/hamcrest-core-1.3_6411aba9b6bfefb0e2e88f221b365bbada5cfaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/io.reactivex-rxandroid-1.2.1_cd8ddabfa171b83b6eadbaaf73255a10240f1868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Tools/android/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/support-annotations-25.1.0_051b3c78b825b3c1e038b26ce9631fff7b989baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/3.4.1/7be1adb5da269608d44422fa9749fa6cda38c730/mockwebserver-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7be1adb5da269608d44422fa9749fa6cda38c730">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/mockwebserver-3.4.1_62659654163ebb97e77dd6e11c43bd0c9ee4a74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.facebook.conceal/conceal/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30cbc9b94a9a9e3c5d4252fde59e8db066460917">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.facebook.conceal-conceal-1.1.3_183f64352b11ed065f6703d90d8f1deff0a884d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/retrofit-2.1.0_1abbcdb0859a7a5a54f4dd055355e02ad76e8cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/androidTest/mock/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_c2c8ec5698f5a9adf1b34f76cf80f2a3a39f57ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.jakewharton-butterknife-8.4.0_e5983fb6e8935b07c4ac25aeb9ee3bdbb760f20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-appcompat-v7-25.1.0_651b30381e1afed94ad46600e1fad87ae8361ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-design-25.1.0_af45a5f005ee636301f1b7c33e2b8e5dd8ac640c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.google.android.gms-play-services-basement-10.0.1_bcf8d218faab63a58d94c6e9659105761bccf1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/oauth.signpost/signpost-core/1.2.1.2/bf95955dcf3d5a78c201e49b0c336787ea73f161/signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/signpost-core-1.2.1.2_1264ccb52f6502d6a505126c4fe774db5465e40e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.3/fd32786786e2adb664d5ecc965da47629dca14ba/commons-codec-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fd32786786e2adb664d5ecc965da47629dca14ba">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/commons-codec-1.3_f9d57f3ffae64be8567d759bfa3671bd14f7b602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/okhttp-3.4.1_b00b7bb21f243f455693ce35c1ee9a5bd255917f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/okio-1.9.0_bb9a725ec95d8e46b680d7a09dcff2dab31d96d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/javax.inject-1_e589bbf28d4720bee6435fb0a7528a403e4ebcf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/dagger-2.8_61614b7814b35e4377a9a5e288c3e7be32030650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-recyclerview-v7-25.1.0_9e0ab83b2bf4855a4121104d7af3913cd9bf45a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/marcello/Workspace/Challenge/belly/android/app/build/intermediates/pre-dexed/mock/debug/com.android.support-support-v4-25.1.0_693a1708dd4ef65880a473d8485f321044ffe74d.jar" />
+    </item>
+
+</items>

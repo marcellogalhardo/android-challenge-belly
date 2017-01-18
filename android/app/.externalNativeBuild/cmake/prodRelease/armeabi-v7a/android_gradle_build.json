@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/marcellogalhardo/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/marcellogalhardo/Library/Android/sdk/cmake/3.6.3155560/bin/cmake --build /Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/armeabi-v7a --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/platforms/android-9/arch-arm  -Dnative_lib_EXPORTS -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security   -Os -DNDEBUG -Os -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/.externalNativeBuild/cmake/prodRelease/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/marcellogalhardo/Workspace/Android/BellyChallenge/android/app/build/intermediates/cmake/prod/release/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "168301927184655090"
+		}
+	},
+	"toolchains" : 
+	{
+		"168301927184655090" : 
+		{
+			"cCompilerExecutable" : "/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/marcellogalhardo/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
