@@ -23,8 +23,7 @@ Feel free to use any open source project dependencies you are comfortable with. 
 7. It use SVG.
 8. It has some unit testing with JUnit and Mockito (see test folder).
 9. It has some Ui tests with Espresso (see androidTest folder).
-10. It use CustomView implementation with parameters by XML (see DatePickerView).
-11. It use Hawk to cache (work offline).
+10. It use Hawk to cache (work offline).
 
 ##Important:
 
